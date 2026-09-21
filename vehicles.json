@@ -1,0 +1,669 @@
+[
+  {
+    "id": 241,
+    "slug": "lamborghini/huracan-evo-spyder-vert-pomme",
+    "name": "Lamborghini Huracan Evo Spyder Vert Pomme",
+    "brand": "Lamborghini",
+    "category": "Convertible",
+    "priceAedPerDay": 3000,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 2
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Huracan Evo Spyder Vert Pomme disponible à la location à Dubaï."
+  },
+  {
+    "id": 242,
+    "slug": "mercedes/cle-53",
+    "name": "Mercedes CLE 53",
+    "brand": "Mercedes",
+    "category": "Convertible",
+    "priceAedPerDay": 1000,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes CLE 53 disponible à la location à Dubaï."
+  },
+  {
+    "id": 243,
+    "slug": "mercedes/g900-rocket-eyes",
+    "name": "Mercedes G900 Rocket Eyes",
+    "brand": "Mercedes",
+    "category": "SUV",
+    "priceAedPerDay": 1900,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes G900 Rocket Eyes disponible à la location à Dubaï."
+  },
+  {
+    "id": 244,
+    "slug": "mercedes/cla45s",
+    "name": "Mercedes CLA 45 S",
+    "brand": "Mercedes",
+    "category": "Sport",
+    "priceAedPerDay": 900,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes CLA 45 S disponible à la location à Dubaï."
+  },
+  {
+    "id": 245,
+    "slug": "mercedes/amg-gt-900-brabus",
+    "name": "Mercedes AMG GT 900 Brabus",
+    "brand": "Mercedes",
+    "category": "Luxury",
+    "priceAedPerDay": 1200,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes AMG GT 900 Brabus disponible à la location à Dubaï."
+  },
+  {
+    "id": 246,
+    "slug": "porsche/gt3-rs",
+    "name": "Porsche GT3 RS",
+    "brand": "Porsche",
+    "category": "Supercar",
+    "priceAedPerDay": 3800,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 2
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Porsche GT3 RS disponible à la location à Dubaï."
+  },
+  {
+    "id": 247,
+    "slug": "audi/a3-berline",
+    "name": "Audi A3 Berline",
+    "brand": "Audi",
+    "category": "Luxury",
+    "priceAedPerDay": 400,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Audi A3 Berline disponible à la location à Dubaï."
+  },
+  {
+    "id": 248,
+    "slug": "mercedes/g900-rocket",
+    "name": "Mercedes G900 Rocket",
+    "brand": "Mercedes",
+    "category": "SUV",
+    "priceAedPerDay": 2000,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes G900 Rocket disponible à la location à Dubaï."
+  },
+  {
+    "id": 249,
+    "slug": "lamborghini/urus-mansory",
+    "name": "Lamborghini Urus Mansory",
+    "brand": "Lamborghini",
+    "category": "SUV",
+    "priceAedPerDay": 3000,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Urus Mansory disponible à la location à Dubaï."
+  },
+  {
+    "id": 250,
+    "slug": "porsche/gt3-rs-2",
+    "name": "Porsche GT3 RS",
+    "brand": "Porsche",
+    "category": "Supercar",
+    "priceAedPerDay": 3800,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 2
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Porsche GT3 RS disponible à la location à Dubaï."
+  },
+  {
+    "id": 251,
+    "slug": "mercedes/g800-brabus",
+    "name": "Mercedes G800 Brabus",
+    "brand": "Mercedes",
+    "category": "SUV",
+    "priceAedPerDay": 1800,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes G800 Brabus disponible à la location à Dubaï."
+  },
+  {
+    "id": 252,
+    "slug": "ferrari/purosangue",
+    "name": "Ferrari Purosangue",
+    "brand": "Ferrari",
+    "category": "SUV",
+    "priceAedPerDay": 7500,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Ferrari Purosangue disponible à la location à Dubaï."
+  },
+  {
+    "id": 253,
+    "slug": "porsche/911-turbo-s",
+    "name": "Porsche 911 Turbo S",
+    "brand": "Porsche",
+    "category": "Convertible",
+    "priceAedPerDay": 2200,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Porsche 911 Turbo S disponible à la location à Dubaï."
+  },
+  {
+    "id": 254,
+    "slug": "mercedes/g800-brabus-2",
+    "name": "Mercedes G800 Brabus",
+    "brand": "Mercedes",
+    "category": "SUV",
+    "priceAedPerDay": 1800,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes G800 Brabus disponible à la location à Dubaï."
+  },
+  {
+    "id": 255,
+    "slug": "lamborghini/urus-s",
+    "name": "Lamborghini Urus S",
+    "brand": "Lamborghini",
+    "category": "SUV",
+    "priceAedPerDay": 2700,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Urus S disponible à la location à Dubaï."
+  },
+  {
+    "id": 256,
+    "slug": "lamborghini/urus-capsule",
+    "name": "Lamborghini Urus Capsule",
+    "brand": "Lamborghini",
+    "category": "SUV",
+    "priceAedPerDay": 2400,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Urus Capsule disponible à la location à Dubaï."
+  },
+  {
+    "id": 257,
+    "slug": "bmw/m4-competition",
+    "name": "BMW M4 Competition",
+    "brand": "BMW",
+    "category": "Convertible",
+    "priceAedPerDay": 1300,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "BMW M4 Competition disponible à la location à Dubaï."
+  },
+  {
+    "id": 258,
+    "slug": "porsche/macan-gts",
+    "name": "Porsche Macan GTS",
+    "brand": "Porsche",
+    "category": "SUV",
+    "priceAedPerDay": 950,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Porsche Macan GTS disponible à la location à Dubaï."
+  },
+  {
+    "id": 259,
+    "slug": "porsche/911-turbo-s-2",
+    "name": "Porsche 911 Turbo S",
+    "brand": "Porsche",
+    "category": "Convertible",
+    "priceAedPerDay": 2200,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Porsche 911 Turbo S disponible à la location à Dubaï."
+  },
+  {
+    "id": 260,
+    "slug": "lamborghini/huracan-evo-spyder",
+    "name": "Lamborghini Huracan Evo Spyder",
+    "brand": "Lamborghini",
+    "category": "Convertible",
+    "priceAedPerDay": 2600,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 2
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Huracan Evo Spyder disponible à la location à Dubaï."
+  },
+  {
+    "id": 261,
+    "slug": "mercedes/amg-gt-63",
+    "name": "Mercedes AMG GT 63",
+    "brand": "Mercedes",
+    "category": "Sport",
+    "priceAedPerDay": 1600,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes AMG GT 63 disponible à la location à Dubaï."
+  },
+  {
+    "id": 262,
+    "slug": "audi/a3-berline-2",
+    "name": "Audi A3 Berline",
+    "brand": "Audi",
+    "category": "Luxury",
+    "priceAedPerDay": 400,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Audi A3 Berline disponible à la location à Dubaï."
+  },
+  {
+    "id": 263,
+    "slug": "mercedes/g63",
+    "name": "Mercedes G63",
+    "brand": "Mercedes",
+    "category": "SUV",
+    "priceAedPerDay": 1300,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes G63 disponible à la location à Dubaï."
+  },
+  {
+    "id": 264,
+    "slug": "audi/rs3-2025",
+    "name": "Audi RS3 2025",
+    "brand": "Audi",
+    "category": "Sport",
+    "priceAedPerDay": 850,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Audi RS3 2025 disponible à la location à Dubaï."
+  },
+  {
+    "id": 265,
+    "slug": "volkswagen/golf-8r-2026",
+    "name": "Volkswagen Golf 8R 2026",
+    "brand": "Volkswagen",
+    "category": "Sport",
+    "priceAedPerDay": 750,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Volkswagen Golf 8R 2026 disponible à la location à Dubaï."
+  },
+  {
+    "id": 266,
+    "slug": "audi/a3-berline-3",
+    "name": "Audi A3 Berline",
+    "brand": "Audi",
+    "category": "Luxury",
+    "priceAedPerDay": 400,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Audi A3 Berline disponible à la location à Dubaï."
+  },
+  {
+    "id": 267,
+    "slug": "mercedes/c63s-amg",
+    "name": "Mercedes C63S AMG",
+    "brand": "Mercedes",
+    "category": "Sport",
+    "priceAedPerDay": 1500,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 5
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Mercedes C63S AMG disponible à la location à Dubaï."
+  },
+  {
+    "id": 268,
+    "slug": "lamborghini/huracan-evo-spyder-2",
+    "name": "Lamborghini Huracan Evo Spyder",
+    "brand": "Lamborghini",
+    "category": "Convertible",
+    "priceAedPerDay": 2600,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 2
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Lamborghini Huracan Evo Spyder disponible à la location à Dubaï."
+  },
+  {
+    "id": 269,
+    "slug": "ferrari/purosangue-2",
+    "name": "Ferrari Purosangue",
+    "brand": "Ferrari",
+    "category": "SUV",
+    "priceAedPerDay": 7500,
+    "specs": {
+      "engine": "À confirmer",
+      "power": "À confirmer",
+      "acceleration": "À confirmer",
+      "topSpeed": "À confirmer",
+      "transmission": "Automatique",
+      "seats": 4
+    },
+    "features": [
+      "Intérieur premium",
+      "Système audio haut de gamme",
+      "Technologie de pointe",
+      "Confort exceptionnel"
+    ],
+    "shortDescription": "Ferrari Purosangue disponible à la location à Dubaï."
+  }
+]
